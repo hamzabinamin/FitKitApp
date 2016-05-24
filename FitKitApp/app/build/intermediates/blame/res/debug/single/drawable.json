@@ -1,0 +1,222 @@
+[
+    {
+        "merged": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\check_mark.png",
+        "source": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\src\\main\\res\\drawable\\check_mark.png"
+    },
+    {
+        "merged": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bottom_bar.PNG",
+        "source": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\src\\main\\res\\drawable\\bottom_bar.PNG"
+    },
+    {
+        "merged": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\down_arrow102.png",
+        "source": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\src\\main\\res\\drawable\\down_arrow102.png"
+    },
+    {
+        "merged": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\direction387.png",
+        "source": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\src\\main\\res\\drawable\\direction387.png"
+    },
+    {
+        "merged": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\delete.png",
+        "source": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\src\\main\\res\\drawable\\delete.png"
+    },
+    {
+        "merged": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\next8.png",
+        "source": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\src\\main\\res\\drawable\\next8.png"
+    },
+    {
+        "merged": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\up_arrow138.png",
+        "source": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\src\\main\\res\\drawable\\up_arrow138.png"
+    },
+    {
+        "merged": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\down_arrow103.png",
+        "source": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\src\\main\\res\\drawable\\down_arrow103.png"
+    },
+    {
+        "merged": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\up_arrow137.png",
+        "source": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\src\\main\\res\\drawable\\up_arrow137.png"
+    },
+    {
+        "merged": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\debug_on.png",
+        "source": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\src\\main\\res\\drawable\\debug_on.png"
+    },
+    {
+        "merged": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\orange_bar.PNG",
+        "source": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\src\\main\\res\\drawable\\orange_bar.PNG"
+    },
+    {
+        "merged": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\add.png",
+        "source": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\src\\main\\res\\drawable\\add.png"
+    },
+    {
+        "merged": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\yellow_bar.PNG",
+        "source": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\src\\main\\res\\drawable\\yellow_bar.PNG"
+    },
+    {
+        "merged": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cuttingboard.png",
+        "source": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\src\\main\\res\\drawable\\cuttingboard.png"
+    },
+    {
+        "merged": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\down_arrow101.png",
+        "source": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\src\\main\\res\\drawable\\down_arrow101.png"
+    },
+    {
+        "merged": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chevron14.png",
+        "source": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\src\\main\\res\\drawable\\chevron14.png"
+    },
+    {
+        "merged": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\display_box.png",
+        "source": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\src\\main\\res\\drawable\\display_box.png"
+    },
+    {
+        "merged": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rewind14.png",
+        "source": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\src\\main\\res\\drawable\\rewind14.png"
+    },
+    {
+        "merged": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\debug_off.png",
+        "source": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\src\\main\\res\\drawable\\debug_off.png"
+    },
+    {
+        "merged": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\vertical_bar.png",
+        "source": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\src\\main\\res\\drawable\\vertical_bar.png"
+    },
+    {
+        "merged": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\piechart.png",
+        "source": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\src\\main\\res\\drawable\\piechart.png"
+    },
+    {
+        "merged": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\blurred.png",
+        "source": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\src\\main\\res\\drawable\\blurred.png"
+    },
+    {
+        "merged": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\blue_bar.PNG",
+        "source": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\src\\main\\res\\drawable\\blue_bar.PNG"
+    },
+    {
+        "merged": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\back.png",
+        "source": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\src\\main\\res\\drawable\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\previous18.png",
+        "source": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\src\\main\\res\\drawable\\previous18.png"
+    },
+    {
+        "merged": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\next7.png",
+        "source": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\src\\main\\res\\drawable\\next7.png"
+    },
+    {
+        "merged": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\overlay.png",
+        "source": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\src\\main\\res\\drawable\\overlay.png"
+    },
+    {
+        "merged": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\store.png",
+        "source": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\src\\main\\res\\drawable\\store.png"
+    },
+    {
+        "merged": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\blurred2.jpg",
+        "source": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\src\\main\\res\\drawable\\blurred2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\upload153.png",
+        "source": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\src\\main\\res\\drawable\\upload153.png"
+    },
+    {
+        "merged": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\divider.png",
+        "source": "C:\\Users\\Hamza\\AndroidStudioProjects\\FitKitApp\\app\\src\\main\\res\\drawable\\divider.png"
+    }
+]

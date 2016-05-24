@@ -1,0 +1,121 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Hamza\AndroidStudioProjects\FitKitApp\app\src\main\AndroidManifest.xml:2:1-52:12
+	xmlns:android
+		ADDED from C:\Users\Hamza\AndroidStudioProjects\FitKitApp\app\src\main\AndroidManifest.xml:2:11-69
+	package
+		ADDED from C:\Users\Hamza\AndroidStudioProjects\FitKitApp\app\src\main\AndroidManifest.xml:3:5-38
+		INJECTED from C:\Users\Hamza\AndroidStudioProjects\FitKitApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Hamza\AndroidStudioProjects\FitKitApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Hamza\AndroidStudioProjects\FitKitApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Hamza\AndroidStudioProjects\FitKitApp\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Hamza\AndroidStudioProjects\FitKitApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Hamza\AndroidStudioProjects\FitKitApp\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\Hamza\AndroidStudioProjects\FitKitApp\app\src\main\AndroidManifest.xml:5:5-50:19
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\Hamza\AndroidStudioProjects\FitKitApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Hamza\AndroidStudioProjects\FitKitApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Hamza\AndroidStudioProjects\FitKitApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+	android:supportsRtl
+		ADDED from C:\Users\Hamza\AndroidStudioProjects\FitKitApp\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\Hamza\AndroidStudioProjects\FitKitApp\app\src\main\AndroidManifest.xml:8:9-41
+	android:allowBackup
+		ADDED from C:\Users\Hamza\AndroidStudioProjects\FitKitApp\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from C:\Users\Hamza\AndroidStudioProjects\FitKitApp\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from C:\Users\Hamza\AndroidStudioProjects\FitKitApp\app\src\main\AndroidManifest.xml:11:9-40
+	android:largeHeap
+		ADDED from C:\Users\Hamza\AndroidStudioProjects\FitKitApp\app\src\main\AndroidManifest.xml:9:9-33
+activity#hamza.example.fitkitapp.SignUp_LogIn
+ADDED from C:\Users\Hamza\AndroidStudioProjects\FitKitApp\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\Hamza\AndroidStudioProjects\FitKitApp\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Hamza\AndroidStudioProjects\FitKitApp\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Hamza\AndroidStudioProjects\FitKitApp\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\Hamza\AndroidStudioProjects\FitKitApp\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Hamza\AndroidStudioProjects\FitKitApp\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\Hamza\AndroidStudioProjects\FitKitApp\app\src\main\AndroidManifest.xml:16:27-74
+activity#hamza.example.fitkitapp.Join
+ADDED from C:\Users\Hamza\AndroidStudioProjects\FitKitApp\app\src\main\AndroidManifest.xml:19:9-21:52
+	android:screenOrientation
+		ADDED from C:\Users\Hamza\AndroidStudioProjects\FitKitApp\app\src\main\AndroidManifest.xml:21:13-49
+	android:name
+		ADDED from C:\Users\Hamza\AndroidStudioProjects\FitKitApp\app\src\main\AndroidManifest.xml:20:13-33
+activity#hamza.example.fitkitapp.Home
+ADDED from C:\Users\Hamza\AndroidStudioProjects\FitKitApp\app\src\main\AndroidManifest.xml:22:9-24:52
+	android:screenOrientation
+		ADDED from C:\Users\Hamza\AndroidStudioProjects\FitKitApp\app\src\main\AndroidManifest.xml:24:13-49
+	android:name
+		ADDED from C:\Users\Hamza\AndroidStudioProjects\FitKitApp\app\src\main\AndroidManifest.xml:23:13-33
+activity#hamza.example.fitkitapp.Food_Diary
+ADDED from C:\Users\Hamza\AndroidStudioProjects\FitKitApp\app\src\main\AndroidManifest.xml:25:9-27:52
+	android:screenOrientation
+		ADDED from C:\Users\Hamza\AndroidStudioProjects\FitKitApp\app\src\main\AndroidManifest.xml:27:13-49
+	android:name
+		ADDED from C:\Users\Hamza\AndroidStudioProjects\FitKitApp\app\src\main\AndroidManifest.xml:26:13-39
+activity#hamza.example.fitkitapp.Add_Breakfast
+ADDED from C:\Users\Hamza\AndroidStudioProjects\FitKitApp\app\src\main\AndroidManifest.xml:28:9-30:52
+	android:screenOrientation
+		ADDED from C:\Users\Hamza\AndroidStudioProjects\FitKitApp\app\src\main\AndroidManifest.xml:30:13-49
+	android:name
+		ADDED from C:\Users\Hamza\AndroidStudioProjects\FitKitApp\app\src\main\AndroidManifest.xml:29:13-42
+activity#hamza.example.fitkitapp.Login
+ADDED from C:\Users\Hamza\AndroidStudioProjects\FitKitApp\app\src\main\AndroidManifest.xml:31:9-33:52
+	android:screenOrientation
+		ADDED from C:\Users\Hamza\AndroidStudioProjects\FitKitApp\app\src\main\AndroidManifest.xml:33:13-49
+	android:name
+		ADDED from C:\Users\Hamza\AndroidStudioProjects\FitKitApp\app\src\main\AndroidManifest.xml:32:13-34
+activity#hamza.example.fitkitapp.Join_2
+ADDED from C:\Users\Hamza\AndroidStudioProjects\FitKitApp\app\src\main\AndroidManifest.xml:34:9-36:52
+	android:screenOrientation
+		ADDED from C:\Users\Hamza\AndroidStudioProjects\FitKitApp\app\src\main\AndroidManifest.xml:36:13-49
+	android:name
+		ADDED from C:\Users\Hamza\AndroidStudioProjects\FitKitApp\app\src\main\AndroidManifest.xml:35:13-35
+activity#hamza.example.fitkitapp.Congrats
+ADDED from C:\Users\Hamza\AndroidStudioProjects\FitKitApp\app\src\main\AndroidManifest.xml:37:9-39:52
+	android:screenOrientation
+		ADDED from C:\Users\Hamza\AndroidStudioProjects\FitKitApp\app\src\main\AndroidManifest.xml:39:13-49
+	android:name
+		ADDED from C:\Users\Hamza\AndroidStudioProjects\FitKitApp\app\src\main\AndroidManifest.xml:38:13-37
+activity#hamza.example.fitkitapp.Progress
+ADDED from C:\Users\Hamza\AndroidStudioProjects\FitKitApp\app\src\main\AndroidManifest.xml:40:9-42:52
+	android:screenOrientation
+		ADDED from C:\Users\Hamza\AndroidStudioProjects\FitKitApp\app\src\main\AndroidManifest.xml:42:13-49
+	android:name
+		ADDED from C:\Users\Hamza\AndroidStudioProjects\FitKitApp\app\src\main\AndroidManifest.xml:41:13-37
+activity#hamza.example.fitkitapp.Add_Lunch
+ADDED from C:\Users\Hamza\AndroidStudioProjects\FitKitApp\app\src\main\AndroidManifest.xml:43:9-45:52
+	android:screenOrientation
+		ADDED from C:\Users\Hamza\AndroidStudioProjects\FitKitApp\app\src\main\AndroidManifest.xml:45:13-49
+	android:name
+		ADDED from C:\Users\Hamza\AndroidStudioProjects\FitKitApp\app\src\main\AndroidManifest.xml:44:13-38
+activity#hamza.example.fitkitapp.Add_Dinner
+ADDED from C:\Users\Hamza\AndroidStudioProjects\FitKitApp\app\src\main\AndroidManifest.xml:46:9-48:52
+	android:screenOrientation
+		ADDED from C:\Users\Hamza\AndroidStudioProjects\FitKitApp\app\src\main\AndroidManifest.xml:48:13-49
+	android:name
+		ADDED from C:\Users\Hamza\AndroidStudioProjects\FitKitApp\app\src\main\AndroidManifest.xml:47:13-39
+activity#hamza.example.fitkitapp.Food_Details
+ADDED from C:\Users\Hamza\AndroidStudioProjects\FitKitApp\app\src\main\AndroidManifest.xml:49:9-59
+	android:name
+		ADDED from C:\Users\Hamza\AndroidStudioProjects\FitKitApp\app\src\main\AndroidManifest.xml:49:19-47
+uses-sdk
+INJECTED from C:\Users\Hamza\AndroidStudioProjects\FitKitApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\Hamza\AndroidStudioProjects\FitKitApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Hamza\AndroidStudioProjects\FitKitApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Hamza\AndroidStudioProjects\FitKitApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		INJECTED from C:\Users\Hamza\AndroidStudioProjects\FitKitApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Hamza\AndroidStudioProjects\FitKitApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Hamza\AndroidStudioProjects\FitKitApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Hamza\AndroidStudioProjects\FitKitApp\app\src\main\AndroidManifest.xml

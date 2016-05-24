@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="hamza.example.fitkitapp"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="23" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity android:name="hamza.example.fitkitapp.SignUp_LogIn" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="hamza.example.fitkitapp.Join"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="hamza.example.fitkitapp.Home"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="hamza.example.fitkitapp.Food_Diary"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="hamza.example.fitkitapp.Add_Breakfast"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="hamza.example.fitkitapp.Login"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="hamza.example.fitkitapp.Join_2"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="hamza.example.fitkitapp.Congrats"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="hamza.example.fitkitapp.Progress"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="hamza.example.fitkitapp.Add_Lunch"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="hamza.example.fitkitapp.Add_Dinner"
+            android:screenOrientation="portrait" />
+        <activity android:name="hamza.example.fitkitapp.Food_Details" />
+    </application>
+
+</manifest>

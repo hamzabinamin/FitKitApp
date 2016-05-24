@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/blurred2"
+    android:weightSum="1"
+    tools:context="hamza.example.fitkitapp.Login">
+
+    <FrameLayout
+        android:layout_width="wrap_content"
+        android:layout_gravity="center"
+        android:layout_height="302dp"
+        android:background="@color/colorWhiteTopBarText"
+        android:layout_marginLeft="4dp"
+        android:layout_marginTop="10dp">
+        <TextView
+            android:layout_width="354dp"
+            android:layout_height="50dp"
+            android:text="Log In"
+            android:gravity="center"
+            android:textSize="18sp"
+            android:id="@+id/textView9"
+            android:textColor="@color/colorWhiteTopBarText"
+            android:background="@color/colorBlueTopBar"
+            android:layout_weight="0.07" />
+
+        <LinearLayout
+            android:layout_width="353dp"
+            android:layout_height="260dp"
+            android:layout_marginTop="50dp"
+            android:background="@drawable/overlay"
+            android:orientation="vertical"
+            android:weightSum="3">
+
+         <EditText
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:textColor="@color/colorBlack"
+             android:textColorHint="@color/colorBlack"
+             android:layout_gravity="center"
+             android:layout_marginTop="40dp"
+             android:textSize="20dp"
+             android:id="@+id/Username"
+             android:hint="Username...."
+             />
+
+            <EditText
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="30dp"
+                android:textColor="@color/colorBlack"
+                android:textColorHint="@color/colorBlack"
+                android:textSize="20dp"
+                android:id="@+id/Password"
+                android:hint="Password...."
+                />
+
+            <Button
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:background="@color/colorBlueTopBar"
+                android:text="Log In"
+                android:id="@+id/Btn_Login2"
+                android:textColor="@color/colorWhiteTopBarText"
+                android:layout_marginTop="30dp"
+                android:layout_gravity="center"
+                />
+
+
+
+
+        </LinearLayout>
+
+
+        <ImageView
+            android:layout_width="48dp"
+            android:layout_height="50dp"
+            android:layout_marginRight="2dp"
+            android:id="@+id/forwardHome"
+            android:src="@drawable/debug_on"
+            android:layout_gravity="right|top" />
+
+        <ImageView
+            android:layout_width="48dp"
+            android:layout_height="50dp"
+            android:layout_marginTop="0dp"
+            android:id="@+id/backSL2"
+            android:src="@drawable/debug_off"
+            android:layout_gravity="left|top" />
+
+    </FrameLayout>
+
+
+
+</LinearLayout>
