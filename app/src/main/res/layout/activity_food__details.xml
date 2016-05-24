@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:background="@drawable/display_box"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="2"
+    tools:context="hamza.example.fitkitapp.Add_Breakfast">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:orientation="horizontal">
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="40dp">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:background="@color/colorBlueTopBar"
+                android:text="Food Details"
+                android:gravity="center"
+                android:textColor="@color/colorWhiteTopBarText"
+                android:textSize="@dimen/topBarText" />
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/backFD"
+                android:background="@drawable/debug_off"
+                />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/forwardFD"
+                android:layout_marginLeft="310dp"
+                android:background="@drawable/debug_on"
+                />
+        </FrameLayout>
+    </LinearLayout>
+
+           <FrameLayout
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content">
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:id="@+id/foodN"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/colorBlack"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginLeft="10dp"
+                    android:textSize="21sp"
+
+                    />
+            </LinearLayout>
+
+               <ImageView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:layout_marginTop="40dp"
+                   android:background="@drawable/divider"/>
+
+               <LinearLayout
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content">
+
+                   <TextView
+                       android:layout_width="wrap_content"
+                       android:layout_height="wrap_content"
+                       android:textColor="@color/colorBlack"
+                       android:layout_marginTop="50dp"
+                       android:layout_marginLeft="10dp"
+                       android:textSize="19sp"
+                       android:text="Serving Size"
+                       />
+                   <TextView
+                       android:id="@+id/fsize"
+                       android:layout_width="wrap_content"
+                       android:layout_height="wrap_content"
+                       android:textColor="@color/colorBlack"
+                       android:layout_marginTop="50dp"
+                       android:layout_marginLeft="160dp"
+                       android:textSize="19sp"
+
+                       />
+               </LinearLayout>
+
+               <ImageView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:layout_marginTop="80dp"
+                   android:background="@drawable/divider"/>
+
+               <LinearLayout
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content">
+
+                   <TextView
+                       android:layout_width="wrap_content"
+                       android:layout_height="wrap_content"
+                       android:textColor="@color/colorBlack"
+                       android:layout_marginTop="95dp"
+                       android:layout_marginLeft="10dp"
+                       android:textSize="19sp"
+                       android:text="Number of Servings"
+                       />
+                   <TextView
+                       android:id="@+id/fquantity"
+                       android:layout_width="wrap_content"
+                       android:layout_height="wrap_content"
+                       android:textColor="@color/colorBlack"
+                       android:layout_marginTop="95dp"
+                       android:layout_marginLeft="135dp"
+                       android:textSize="19sp"
+
+
+                       />
+               </LinearLayout>
+
+               <ImageView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:layout_marginTop="120dp"
+                   android:background="@drawable/divider"/>
+
+
+               <LinearLayout
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content">
+
+                   <TextView
+                       android:layout_width="wrap_content"
+                       android:layout_height="wrap_content"
+                       android:textColor="@color/colorBlack"
+                       android:layout_marginTop="140dp"
+                       android:layout_marginLeft="10dp"
+                       android:textSize="21sp"
+                       android:text="Nutrition Facts"
+                       />
+
+               </LinearLayout>
+
+               <ImageView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:layout_marginTop="210dp"
+                   android:background="@drawable/divider"/>
+               <LinearLayout
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content">
+
+                   <TextView
+                       android:layout_width="wrap_content"
+                       android:layout_height="wrap_content"
+                       android:textColor="@color/colorBlack"
+                       android:layout_marginTop="180dp"
+                       android:layout_marginLeft="10dp"
+                       android:textSize="19sp"
+                       android:text="Calories"
+                       />
+
+                   <TextView
+                       android:id="@+id/fcalories"
+                       android:layout_width="wrap_content"
+                       android:layout_height="wrap_content"
+                       android:textColor="@color/colorBlack"
+                       android:layout_marginTop="180dp"
+                       android:layout_marginLeft="228dp"
+                       android:textSize="19sp"
+                       />
+               </LinearLayout>
+
+               <ImageView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:layout_marginTop="170dp"
+                   android:background="@drawable/divider"/>
+
+               <LinearLayout
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content">
+
+                   <TextView
+                       android:layout_width="wrap_content"
+                       android:layout_height="wrap_content"
+                       android:textColor="@color/colorBlack"
+                       android:layout_marginTop="225dp"
+                       android:layout_marginLeft="10dp"
+                       android:textSize="19sp"
+                       android:text="Fat (g)"
+                       />
+
+                   <TextView
+                       android:id="@+id/ffat"
+                       android:layout_width="wrap_content"
+                       android:layout_height="wrap_content"
+                       android:textColor="@color/colorBlack"
+                       android:layout_marginTop="225dp"
+                       android:layout_marginLeft="242dp"
+                       android:textSize="19sp"
+                       />
+               </LinearLayout>
+
+               <ImageView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:layout_marginTop="255dp"
+                   android:background="@drawable/divider"/>
+
+               <LinearLayout
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content">
+
+                   <TextView
+                       android:layout_width="wrap_content"
+                       android:layout_height="wrap_content"
+                       android:textColor="@color/colorBlack"
+                       android:layout_marginTop="275dp"
+                       android:layout_marginLeft="10dp"
+                       android:textSize="19sp"
+                       android:text="Carbs (g)"
+                       />
+
+                   <TextView
+                       android:id="@+id/fcarbs"
+                       android:layout_width="wrap_content"
+                       android:layout_height="wrap_content"
+                       android:textColor="@color/colorBlack"
+                       android:layout_marginTop="275dp"
+                       android:layout_marginLeft="221dp"
+                       android:textSize="19sp"
+                       />
+               </LinearLayout>
+
+               <ImageView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:layout_marginTop="305dp"
+                   android:background="@drawable/divider"/>
+
+               <LinearLayout
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content">
+
+                   <TextView
+                       android:layout_width="wrap_content"
+                       android:layout_height="wrap_content"
+                       android:textColor="@color/colorBlack"
+                       android:layout_marginTop="320dp"
+                       android:layout_marginLeft="10dp"
+                       android:textSize="19sp"
+                       android:text="Protein (g)"
+                       />
+
+                   <TextView
+                       android:id="@+id/fprotein"
+                       android:layout_width="wrap_content"
+                       android:layout_height="wrap_content"
+                       android:textColor="@color/colorBlack"
+                       android:layout_marginTop="320dp"
+                       android:layout_marginLeft="210dp"
+                       android:textSize="19sp"
+
+
+                       />
+               </LinearLayout>
+
+               <ImageView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:layout_marginTop="350dp"
+                   android:background="@drawable/divider"/>
+
+           </FrameLayout>
+    </LinearLayout>

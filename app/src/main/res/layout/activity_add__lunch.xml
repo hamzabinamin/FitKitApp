@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="6"
+    tools:context="hamza.example.fitkitapp.Add_Breakfast">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:orientation="horizontal">
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="40dp">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:background="@color/colorBlueTopBar"
+                android:text="Lunch"
+                android:gravity="center"
+                android:textColor="@color/colorWhiteTopBarText"
+                android:textSize="@dimen/topBarText" />
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/backFD"
+                android:background="@drawable/debug_off"
+                />
+
+
+        </FrameLayout>
+    </LinearLayout>
+
+    <SearchView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/searchView"
+        android:layout_gravity="center_horizontal" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="-4dp"
+        android:background="@drawable/divider"/>
+
+
+    <LinearLayout
+        android:layout_width="394dp"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:layout_width="180dp"
+            android:layout_height="58dp"
+            android:text="All Foods"
+            android:id="@+id/BTN_ALLFOODS"
+            />
+
+        <Button
+            android:layout_width="180dp"
+            android:layout_height="58dp"
+            android:text="Recent"
+            android:id="@+id/BTN_Recent"
+            />
+
+    </LinearLayout>
+
+
+    <!--   <LinearLayout
+           android:layout_width="match_parent"
+           android:layout_height="40dp"
+           android:orientation="horizontal">
+           <Button
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:background="@color/colorBlueTopBar"
+               android:text="All Foods"
+               android:textColor="@color/colorWhiteTopBarText"
+               android:textSize="@dimen/topBarText" />
+       </LinearLayout>-->
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:weightSum="1">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@drawable/divider"
+            android:id="@+id/imageView" />
+
+    </LinearLayout>
+
+    <!--<LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="30dp">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:text="1/2%"
+            android:textSize="19sp"
+            android:textColor="@color/colorBlack"
+            android:id="@+id/textView7"
+           />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="30dp">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:text="Milk, 100ml, 40 calories"
+            android:textSize="15sp"
+            android:textColor="@color/colorBlack"
+            android:id="@+id/textView1111" />
+    </LinearLayout>
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/divider"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="30dp">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:text="Banana"
+            android:textSize="19sp"
+            android:textColor="@color/colorBlack"
+            android:id="@+id/textView337"
+            />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="30dp">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:text="Fruit, 1 medium(118g), 105 calories"
+            android:textSize="15sp"
+            android:textColor="@color/colorBlack"
+            android:id="@+id/textView12111" />
+    </LinearLayout>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/divider"
+        android:id="@+id/imageView2" />
+-->
+    <!-- <ListView
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:id="@+id/listview">
+     </ListView>-->
+    <FrameLayout
+        android:name="hamza.example.fitkitapp.RecentFragment"
+        android:id="@+id/fragment_place"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    </FrameLayout>
+
+
+    <!--  <Button
+          android:layout_width="150dp"
+          android:layout_height="45dp"
+          android:text="Save"
+          android:textStyle="bold"
+          android:textSize="21dp"
+          android:layout_marginTop="100dp"
+          android:id="@+id/Btn_Save"
+          android:background="@color/colorgray"
+          android:textColor="@color/colorWhiteTopBarText"
+          android:layout_gravity="center" /> -->
+
+
+</LinearLayout>
+

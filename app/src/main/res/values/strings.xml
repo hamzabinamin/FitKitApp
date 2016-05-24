@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FitKit App</string>
+    <string name="top_bar">MyFitKitApp</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="log_in">Log In</string>
+    <string name="calories_remaining">Calories Remaining</string>
+    <string name="calorie_amount">2,230</string>
+    <string name="Add2Diary">Add to Diary</string>
+    <string name="Home">Home</string>
+    <string name="FoodDiary">Food Diary</string>
+    <string name="Progress">Progress</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

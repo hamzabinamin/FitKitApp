@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="hamza.example.fitkitapp">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".SignUp_LogIn">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Join"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Home"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Food_Diary"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Add_Breakfast"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Login"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Join_2"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Congrats"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Progress"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Add_Lunch"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Add_Dinner"
+            android:screenOrientation="portrait" />
+        <activity android:name=".Food_Details"></activity>
+    </application>
+
+</manifest>

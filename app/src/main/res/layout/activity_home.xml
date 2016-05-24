@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/linearlayout"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="hamza.example.fitkitapp.Home"
+    android:weightSum="8"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:orientation="horizontal">
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/colorBlueTopBar"
+            android:text="@string/top_bar"
+            android:textColor="@color/colorWhiteTopBarText"
+            android:textSize="@dimen/topBarText" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/caloriesRemaining"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/calorie_amount"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="30dp"
+        android:textSize="30sp"
+        android:textColor="@color/colorGreenCalories"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/calories_remaining"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="5dp"
+        android:textSize="18sp"
+        android:textColor="@color/colorBlack"
+        />
+
+    <Button
+        android:id="@+id/go2diary"
+        android:layout_width="120dp"
+        android:layout_height="wrap_content"
+        android:text="@string/Add2Diary"
+        android:textColor="@color/colorWhiteTopBarText"
+        android:background="@color/colorBlueTopBar"
+        android:layout_marginLeft="220dp"
+        android:layout_marginTop="-52dp"
+        />
+
+    <FrameLayout
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/display_box"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="330dp"
+        >
+
+        <TextView
+            android:id="@+id/caloriesGoal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/colorBlack"
+            android:text="2,230"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="20dp"
+            />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/colorBlack"
+            android:text="Goal"
+            android:layout_marginTop="40dp"
+            android:layout_marginLeft="20dp"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/colorBlack"
+            android:text="-"
+            android:textSize="30dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="95dp"
+            />
+
+        <TextView
+            android:id="@+id/FoodCount"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/colorBlack"
+            android:text="0"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="160dp"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/colorBlack"
+            android:text="Food"
+            android:layout_marginTop="40dp"
+            android:layout_marginLeft="150dp"
+            />
+
+    </FrameLayout>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/divider"
+        android:layout_marginTop="-300dp"
+        />
+
+    <FrameLayout
+        android:layout_width="300dp"
+        android:layout_height="200dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="30dp"
+        android:id="@+id/framelayout">
+
+        <!--<ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/piechart"
+            android:layout_marginTop="40dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginBottom="-250dp">
+        </ImageView> -->
+
+
+    </FrameLayout>
+
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/bottom_bar"
+        android:layout_marginTop="20dp"
+        >
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:layout_marginBottom="4dp"
+            android:layout_marginLeft="4dp"
+            android:layout_gravity="bottom"
+            android:text="@string/Home"
+            android:id="@+id/Btn_Home"
+            android:background="@color/colorBlueTopBar"
+            android:textColor="@color/colorWhiteTopBarText"
+            />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:layout_marginLeft="130dp"
+            android:layout_marginTop="7dp"
+            android:text="@string/FoodDiary"
+            android:id="@+id/Btn_FD"
+            android:background="@color/colorBlueTopBar"
+            android:textColor="@color/colorWhiteTopBarText"
+            />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:layout_marginTop="7dp"
+            android:layout_marginLeft="270dp"
+            android:layout_marginRight="2dp"
+            android:text="@string/Progress"
+            android:id="@+id/Btn_Progress"
+            android:background="@color/colorBlueTopBar"
+            android:textColor="@color/colorWhiteTopBarText"
+            />
+
+</FrameLayout>
+
+</LinearLayout>
